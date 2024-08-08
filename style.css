@@ -11,3 +11,6 @@ body {
   object-fit: cover;
   border-radius: 50%;
 }
+#project {
+  background-color: #e2edff;
+}
