@@ -2,7 +2,7 @@
   min-height: 5000px;
 } */
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: #e2edff;
 }
 .jumbotron img {
@@ -13,4 +13,8 @@
 }
 #project {
   background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
 }
